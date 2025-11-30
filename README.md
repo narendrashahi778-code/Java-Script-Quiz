@@ -14,6 +14,7 @@ Science - Biology and natural science concepts
 English - Vocabulary
 
 <img width="1913" height="1013" alt="Screenshot 2025-11-30 221409" src="https://github.com/user-attachments/assets/c780161c-2cd0-44f6-922f-18886208652c" />
-<img width="1912" height="1015" alt="Screenshot 2025-11-30 221422" src="https://github.com/user-attachments/assets/e804536b-7e28-496b-96bc-0b51ce225c9f" />
+<img width="1919" height="1015" alt="Screenshot 2025-11-30 221649" src="https://github.com/user-attachments/assets/43903325-b8a9-4fb0-88b1-eba6ff6bf996" />
+
 
 
